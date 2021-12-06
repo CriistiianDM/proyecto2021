@@ -1,0 +1,30 @@
+{
+  "0": {
+    "integrantes": {
+        "0": {
+          "name": "Cristian Duvan Machado",
+          "correo": "cristian.machado@correunivalle.edu.co",
+          "telefono": "3196815271",
+          "github": "CriistiianDM"
+        },
+        "1": {
+          "name": "Juan sebastian camino",
+          "correo": "",
+          "telefono": "",
+          "github": ""
+        },
+        "2": {
+          "name": "Juan Pablo",
+          "correo": "",
+          "telefono": "",
+          "github": ""
+        },
+        "3": {
+          "name": "Juan Pablo",
+          "correo": "",
+          "telefono": "",
+          "github": ""
+        }
+    }
+  }
+}

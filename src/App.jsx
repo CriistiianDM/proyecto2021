@@ -1,0 +1,25 @@
+/**
+ *  @decs import libs
+ */
+import React , { useState } from "react";
+import { Header } from "./components/Header";
+import { eventListener } from "./eventListener";
+//import { Footer } from "./components/Footer";
+import { styles } from "./css/styles.css";
+
+
+/** 
+ *  @author : cristian duvan machado <cristian.machado@correounivalle.edu.co>
+ *  @decs import components 
+*/
+export function App() {
+    //state of the app
+    const [array, setarray] = useState([{ "cls-1": "header-box" , "cls-2": "title-content" , content: "Desarrollo De Software I" }]);
+    //console.log(array)
+    // return component of the app
+    return (
+       <>
+        <Header properties={array}/>
+       </>
+    );
+}
