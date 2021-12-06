@@ -4,7 +4,7 @@
 import React , { useState } from "react";
 import { Header } from "./components/Header";
 import { eventListener } from "./eventListener";
-//import { Footer } from "./components/Footer";
+import { Footer } from "./components/Footer";
 import { styles } from "./css/styles.css";
 
 
@@ -15,11 +15,12 @@ import { styles } from "./css/styles.css";
 export function App() {
     //state of the app
     const [array, setarray] = useState([{ "cls-1": "header-box" , "cls-2": "title-content" , content: "Desarrollo De Software I" }]);
-    //console.log(array)
+    const [array2, setarray2] = useState([{ "cls-1": "footer-box" , "cls-2": "title-content" , content: "Desarrollo De Software II" }]);
     // return component of the app
     return (
        <>
         <Header properties={array}/>
+        <Footer properties={array2}/>
        </>
     );
 }
