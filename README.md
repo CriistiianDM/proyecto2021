@@ -1,7 +1,7 @@
 # DESARROLLO-DE-SOFTWARE-PROYECTO
 <BR><BR>
  
-# DESCRIPCION
+# ARCHIVOS
       EL PROYECTO SE DIVIDE EN 2 CARPETAS
  * PUBLIC <br>
  Aqui se encuentra el index.html <br>
@@ -9,8 +9,8 @@
   Aqui se encuentra la estrutura del proyecto. La cual esta divida en las siguientes sesiones:<br>
   COMPLEMENTS: En esta carpeta van los componentes de la aplicacion. <br>
   JSON: En esta carpeta van a ir todas las estruturas json que se pasaran como estados. <br>
-  CSS: En esta carpeta estaran alojados los estilos de la aplicacion.
-  FONTS: En esta carpeta estaran las fuentes a usar en la aplicacion.
+  CSS: En esta carpeta estaran alojados los estilos de la aplicacion. <br>
+  FONTS: En esta carpeta estaran las fuentes a usar en la aplicacion. <br>
   IMAGES: En esta carpeta estaran los recursos visuales usados en la aplicacion<br>
 # TECNOLOGIAS USADAS:
 
@@ -25,7 +25,9 @@
 <ul>
   <li>Javacript</li>
 </ul>
-<strong>FRAMEWORK:</strong>
+
+# FRAMEWORK:
+
 <ul> 
   <li>React JS</li>
 </ul>
