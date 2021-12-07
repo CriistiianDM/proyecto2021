@@ -2,7 +2,7 @@
 
 DESCRIPCION:
 
-<strong>TECNOLOGIAS USADAS:</strong>
+# TECNOLOGIAS USADAS:
 
 <ul>
   <li>Boostrap</li> 
