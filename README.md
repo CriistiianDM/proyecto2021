@@ -4,9 +4,10 @@
 # DESCRIPCION
       EL PROYECTO SE DIVIDE EN 2 CARPETAS
  * PUBLIC <br>
- Aqui se encuentra el index.html
- * SRC
- 
+ Aqui se encuentra el index.html <br>
+ * SRC  <br>
+  Aqui se encuentra la estrutura del proyecto. La cual esta divida en las siguientes sesiones:
+  
  
 # TECNOLOGIAS USADAS:
 
