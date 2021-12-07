@@ -1,1 +1,2 @@
-<strong>  SINTAXIS Y REGLAS </strong>
+# REGLAS DE PRODUCION
+
