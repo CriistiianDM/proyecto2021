@@ -4,12 +4,12 @@ DESCRIPCION:
 
 # TECNOLOGIAS USADAS:
 
-<ul>
-  <li>Boostrap</li> 
-  <li>Foundation</li> 
-  <li>Visual Studio Code </li>
-  <li>IDE Visual Studio Code</li>
-</ul>
+* <ul>
+*  <li>Boostrap</li> 
+*  <li>Foundation</li> 
+*  <li>Visual Studio Code </li>
+*  <li>IDE Visual Studio Code</li>
+* </ul>
 
 <strong>LENJUAGES DE PROGRAMACION:</strong>
 <ul>
