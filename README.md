@@ -6,7 +6,7 @@
  * PUBLIC <br>
  Aqui se encuentra el index.html <br>
  * SRC  <br>
-  Aqui se encuentra la estrutura del proyecto. La cual esta divida en las siguientes sesiones:<br>
+  Aqui se encuentra la estrutura del proyecto. La cual esta divida en las siguientes sesiones:<br><br>
   <strong> COMPLEMENTS: </strong> En esta carpeta van los componentes de la aplicacion. <br>
   <strong> JSON:  </strong>En esta carpeta van a ir todas las estruturas json que se pasaran como estados. <br>
   <strong>CSS:  </strong>En esta carpeta estaran alojados los estilos de la aplicacion. <br>
