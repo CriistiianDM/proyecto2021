@@ -3,7 +3,7 @@
  
 # DESCRIPCION
       EL PROYECTO SE DIVIDE EN 2 CARPETAS
- * PUBLIC
+ * PUBLIC <br>
  Aqui se encuentra el index.html
  * SRC
  
