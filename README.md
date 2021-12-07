@@ -4,7 +4,7 @@
 # ARCHIVOS
       EL PROYECTO SE DIVIDE EN 2 CARPETAS
  * PUBLIC <br>
- Aqui se encuentra el index.html <br>
+ Aqui se encuentra el index.html <br><br>
  * SRC  <br>
   Aqui se encuentra la estrutura del proyecto. La cual esta divida en las siguientes sesiones:<br><br>
   <strong> COMPLEMENTS: </strong> En esta carpeta van los componentes de la aplicacion. <br>
