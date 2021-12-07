@@ -21,7 +21,7 @@
    <li>IDE Visual Studio Code</li>
 </ul>
 
-#LENJUAGES DE PROGRAMACION:
+# LENJUAGES DE PROGRAMACION:
 <ul>
   <li>Javacript</li>
 </ul>
@@ -30,7 +30,7 @@
   <li>React JS</li>
 </ul>
 
-#DESARROLLDORES:
+ # DESARROLLDORES:
 <ul>
   <li> JUAN SEBASTIAN CAMINO MUÑOS - <a href="mailto:juan.camino@correounivalle.edu.co"> juan.camino@correounivalle.edu.co </a> - 
     <a href="https://github.com/JuanSe320" target="_blank">    JuanSe320</a>
