@@ -8,10 +8,10 @@
  * SRC  <br>
   Aqui se encuentra la estrutura del proyecto. La cual esta divida en las siguientes sesiones:<br>
   <strong> COMPLEMENTS: </strong> En esta carpeta van los componentes de la aplicacion. <br>
-  JSON: En esta carpeta van a ir todas las estruturas json que se pasaran como estados. <br>
-  CSS: En esta carpeta estaran alojados los estilos de la aplicacion. <br>
-  FONTS: En esta carpeta estaran las fuentes a usar en la aplicacion. <br>
-  IMAGES: En esta carpeta estaran los recursos visuales usados en la aplicacion<br>
+  <strong> JSON:  </strong>En esta carpeta van a ir todas las estruturas json que se pasaran como estados. <br>
+  <strong>CSS:  </strong>En esta carpeta estaran alojados los estilos de la aplicacion. <br>
+  <strong>FONTS:  </strong>En esta carpeta estaran las fuentes a usar en la aplicacion. <br>
+  <strong>IMAGES:  </strong> En esta carpeta estaran los recursos visuales usados en la aplicacion<br>
 # TECNOLOGIAS USADAS:
 
  <ul>
