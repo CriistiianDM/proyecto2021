@@ -11,7 +11,7 @@
   JSON: En esta carpeta van a ir todas las estruturas json que se pasaran como estados. <br>
   CSS: En esta carpeta estaran alojados los estilos de la aplicacion.
   FONTS: En esta carpeta estaran las fuentes a usar en la aplicacion.
- 
+  IMAGES: En esta carpeta estaran los recursos visuales usados en la aplicacion<br>
 # TECNOLOGIAS USADAS:
 
  <ul>
@@ -21,7 +21,7 @@
    <li>IDE Visual Studio Code</li>
 </ul>
 
-<strong>LENJUAGES DE PROGRAMACION:</strong>
+#LENJUAGES DE PROGRAMACION:
 <ul>
   <li>Javacript</li>
 </ul>
@@ -30,7 +30,7 @@
   <li>React JS</li>
 </ul>
 
-<strong>DESARROLLDORES:</strong>
+#DESARROLLDORES:
 <ul>
   <li> JUAN SEBASTIAN CAMINO MUÑOS - <a href="mailto:juan.camino@correounivalle.edu.co"> juan.camino@correounivalle.edu.co </a> - 
     <a href="https://github.com/JuanSe320" target="_blank">    JuanSe320</a>
