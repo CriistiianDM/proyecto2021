@@ -6,8 +6,16 @@
  * PUBLIC <br>
  Aqui se encuentra el index.html <br>
  * SRC  <br>
-  Aqui se encuentra la estrutura del proyecto. La cual esta divida en las siguientes sesiones:
-  
+  Aqui se encuentra la estrutura del proyecto. La cual esta divida en las siguientes sesiones:<br>
+  <ul>
+   <li>
+    COMPONENTS
+   </li>
+   <li>
+   </li>
+   <li>
+   </li>
+  </ul>
  
 # TECNOLOGIAS USADAS:
 
