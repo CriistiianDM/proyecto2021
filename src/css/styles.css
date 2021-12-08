@@ -71,7 +71,7 @@ html {
     word-break: break-all;
     hyphens: auto;
 }
-
+/******      Footer Features        ******/
 .footer-box {
     display: grid;
     position: absolute;
@@ -85,4 +85,32 @@ html {
     box-shadow: 0 0 7px rgba(0, 0, 0, 0.5);
     overflow: hidden;
     z-index: 2;
+}
+
+.footer-divleftfeatures {
+    justify-self:center;
+    align-self:flex-start;
+    overflow:hidden;
+}
+
+.footer-divmidfeatures {
+    display: grid ;
+    grid-template-rows:20% 80%;
+    grid-template-columns: 100%;
+    overflow:hidden;
+}
+
+.footer-titleFeatures {
+    justify-self: center;
+    font-size:1.6em;
+    color: aliceblue;
+}
+
+.footer-textFeatures {
+    justify-self: left;
+    align-self: flex-start;
+    line-height: 0.6em;
+    font-size:0.9em;
+    hyphens: auto;
+    color: aliceblue;
 }

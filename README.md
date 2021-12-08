@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# DESARROLLO-DE-SOFTWARE-PROYECTO
+<BR><BR>
+ 
+# ARCHIVOS
+      EL PROYECTO SE DIVIDE EN 2 CARPETAS
+ * PUBLIC <br>
+ Aqui se encuentra el index.html <br><br>
+ * SRC  <br>
+  Aqui se encuentra la estructura del proyecto. La cual esta divida en las siguientes sesiones:<br><br>
+  <strong> COMPLEMENTS: </strong> En esta carpeta van los componentes de la aplicacion. <br>
+  <strong> JSON:  </strong>En esta carpeta van a ir todas las estruturas json que se pasaran como estados. <br>
+  <strong>CSS:  </strong>En esta carpeta estaran alojados los estilos de la aplicacion. <br>
+  <strong>FONTS:  </strong>En esta carpeta estaran las fuentes a usar en la aplicacion. <br>
+  <strong>IMAGES:  </strong> En esta carpeta estaran los recursos visuales usados en la aplicacion<br>
+# TECNOLOGIAS USADAS:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ <ul>
+   <li>Boostrap</li> 
+   <li>Foundation</li> 
+   <li>Visual Studio Code </li>
+   <li>IDE Visual Studio Code</li>
+</ul>
 
-## Available Scripts
+# LENJUAGES DE PROGRAMACION:
+<ul>
+  <li>Javacript</li>
+</ul>
 
-In the project directory, you can run:
+# FRAMEWORK:
 
-### `npm start`
+<ul> 
+  <li>React JS</li>
+</ul>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ # DESARROLLDORES:
+<ul>
+  <li> JUAN SEBASTIAN CAMINO MUÑOS - <a href="mailto:juan.camino@correounivalle.edu.co"> juan.camino@correounivalle.edu.co </a> - 
+    <a href="https://github.com/JuanSe320" target="_blank">    JuanSe320</a>
+  </li> 
+  <li> CRISTIAN DUVAN MACHADO MOSQUERA - <a href="mailto:cristian.machado@correounivalle.edu.co"> cristian.machado@correounivalle.edu.co </a> -
+    <a href="https://github.com/CriistiianDM"> CriistiianDM </a>
+  </li>
+  <li> JUAN FELIPE OSORIO ZAPATA - <a href="mailto:juan.felipe.osorio@correounivalle.edu.co">juan.felipe.osorio@correounivalle.edu.co </a> -
+    <a href="https://github.com/JFOZ1010">JFOZ10 </a>
+  </li>
+    <li> ALEJANDRO MOSQUERA - <a href="mailto:cardona.alejandro@correounivalle.edu.co">cardona.alejandro@correounivalle.edu.co </a> -
+    <a href="https://github.com/AxzelBC">AxzelBC</a>
+  </li>
+  <li> RUZBELLIT ROMERO - <a href="mailto:Ruzbellit.romero@correounivalle.edu.co">Ruzbellit.romero@correounivalle.edu.co  </a> -
+    <a href="https://github.com/Ruzbellit">Ruzbellit</a>
+  </li>
+    <li>  WILMER CANTILLO - <a href="wilmer.cantillo@correounivalle.edu.co">wilmer.cantillo@correounivalle.edu.co  </a> -
+    <a href="https://github.com/Wilmerwave">Wilmerwave</a>
+  </li>
+</ul>

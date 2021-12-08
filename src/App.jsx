@@ -15,7 +15,7 @@ import { styles } from "./css/styles.css";
 export function App() {
     //state of the app
     const [array, setarray] = useState([{ "cls-1": "header-box" , "cls-2": "title-content" , content: "Desarrollo De Software I" }]);
-    const [array2, setarray2] = useState([{ "cls-1": "footer-box" , "cls-2": "title-content" , content: "Desarrollo De Software II" }]);
+    const [array2, setarray2] = useState([{ "cls-1": "footer-box" ,"cls-2":"footer-divmidfeatures","cls-3": "footer-titleFeatures" ,"cls-4": "footer-textFeatures","cls-5": "footer-divleftfeatures" ,content: "Desarrollo De Software II" }]);
     // return component of the app
     return (
        <>
