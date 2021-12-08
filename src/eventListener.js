@@ -11,6 +11,8 @@ import $ from 'jquery';
  *  
  */
 $(function () {
+  const json = getData();
+  console.log(json);
   console.log('Hello World!');
 });
 
@@ -25,16 +27,17 @@ $(function () {
  *  
  */
 async function getData() {
-  const response = await fetch('./json/data.json');
+  const response = await fetch('./public/json/data.json');
+  console.log(response);
   if (!response.ok) {
 
     let error = "Error 404. dataBase Json, no found";
-    console.log("hey")
+    console.log(error);
     throw new Error(error);
 
   }
   else {
-
+    console.log("dataBase Json, found");
     const objectJson = response.json();
     return objectJson;
 
