@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/proyecto2021/static/css/main.73c7a8af.chunk.css",
-    "main.js": "/proyecto2021/static/js/main.577f827f.chunk.js",
-    "main.js.map": "/proyecto2021/static/js/main.577f827f.chunk.js.map",
+    "main.css": "/proyecto2021/static/css/main.ea974b91.chunk.css",
+    "main.js": "/proyecto2021/static/js/main.f60ab71e.chunk.js",
+    "main.js.map": "/proyecto2021/static/js/main.f60ab71e.chunk.js.map",
     "runtime-main.js": "/proyecto2021/static/js/runtime-main.0d3be906.js",
     "runtime-main.js.map": "/proyecto2021/static/js/runtime-main.0d3be906.js.map",
     "static/js/2.6d9544a6.chunk.js": "/proyecto2021/static/js/2.6d9544a6.chunk.js",
     "static/js/2.6d9544a6.chunk.js.map": "/proyecto2021/static/js/2.6d9544a6.chunk.js.map",
     "index.html": "/proyecto2021/index.html",
-    "static/css/main.73c7a8af.chunk.css.map": "/proyecto2021/static/css/main.73c7a8af.chunk.css.map",
+    "static/css/main.ea974b91.chunk.css.map": "/proyecto2021/static/css/main.ea974b91.chunk.css.map",
     "static/js/2.6d9544a6.chunk.js.LICENSE.txt": "/proyecto2021/static/js/2.6d9544a6.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/proyecto2021/static/media/Roboto-ThinItalic.19c6ed4c.ttf"
+    "static/media/styles.css": "/proyecto2021/static/media/Roboto-ThinItalic.19c6ed4c.ttf",
+    "static/media/beidou.85155d52.gif": "/proyecto2021/static/media/beidou.85155d52.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.0d3be906.js",
     "static/js/2.6d9544a6.chunk.js",
-    "static/css/main.73c7a8af.chunk.css",
-    "static/js/main.577f827f.chunk.js"
+    "static/css/main.ea974b91.chunk.css",
+    "static/js/main.f60ab71e.chunk.js"
   ]
 }
