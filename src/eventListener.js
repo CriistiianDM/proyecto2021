@@ -11,8 +11,6 @@ import $ from 'jquery';
  *  
  */
 $(function () {
-  const json = getData();
-  console.log(json);
   console.log('Hello World!');
 });
 
