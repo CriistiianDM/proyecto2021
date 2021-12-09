@@ -1,30 +1,38 @@
-{
-  "0": {
-    "integrantes": {
-        "0": {
-          "name": "Cristian Duvan Machado",
-          "correo": "cristian.machado@correunivalle.edu.co",
-          "telefono": "3196815271",
-          "github": "CriistiianDM"
-        },
-        "1": {
-          "name": "Juan sebastian camino",
-          "correo": "",
-          "telefono": "",
-          "github": ""
-        },
-        "2": {
-          "name": "Juan Pablo",
-          "correo": "",
-          "telefono": "",
-          "github": ""
-        },
-        "3": {
-          "name": "Juan Pablo",
-          "correo": "",
-          "telefono": "",
-          "github": ""
-        }
+[
+    {
+      "name": "Cristian Duvan Machado",
+      "correo": "cristian.machado@correunivalle.edu.co",
+      "telefono": "3196815271",
+      "github": "CriistiianDM"
+    },
+    {
+      "name": "Juan Sebastian Camino Muñoz",
+      "correo": "",
+      "telefono": "",
+      "github": ""
+    },
+    {
+      "name": "Juan Felipe Osorio Zapata",
+      "correo": "",
+      "telefono": "",
+      "github": ""
+    },
+    {
+      "name": "Ruzbellit Romero",
+      "correo": "",
+      "telefono": "",
+      "github": ""
+    },
+    {
+      "name": "Wilmer Cantillo",
+      "correo": "",
+      "telefono": "",
+      "github": ""
+    },
+    {
+      "name": "Alejandro Mosquera",
+      "correo": "",
+      "telefono": "",
+      "github": ""
     }
-  }
-}
+]

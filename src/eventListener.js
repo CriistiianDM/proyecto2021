@@ -25,7 +25,7 @@ $(function () {
  *  
  */
 async function getData() {
-  const response = await fetch('./public/json/data.json');
+  const response = await fetch('./json/data.json');
   console.log(response);
   if (!response.ok) {
 

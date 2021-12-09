@@ -16,5 +16,6 @@ export function Header({properties}) {
         <div></div>
         <div className={(properties[0])["cls-2"]}>{(properties[0]).content}</div>
         <div></div>
-    </header>);
+    </header>
+    );
 }
