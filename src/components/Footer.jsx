@@ -3,10 +3,13 @@
  */
 import React from 'react';
 import beidou from '../images/beidou.gif';
+
+
 /**
  *  @author : juan sebastian camino <juan.camino@correounivalle.edu.co>
  *  @decs create header of the app
- *  
+ *  @param {object} props
+ *  @return {object} jsx
  */
 export function Footer({ properties}) {
 
