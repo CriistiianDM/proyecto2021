@@ -115,7 +115,7 @@ html {
 .footer-textFeatures {
     justify-self: left;
     align-self: flex-start;
-    line-height: 0.6em;
+    line-height: 1.3em;
     font-size:0.9em;
     hyphens: auto;
     color: aliceblue;
