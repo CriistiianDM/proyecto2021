@@ -1,38 +1,45 @@
-[
-    {
+{
+  "0": {
+    "0": {
       "name": "Cristian Duvan Machado",
       "correo": "cristian.machado@correunivalle.edu.co",
       "telefono": "3196815271",
       "github": "CriistiianDM"
     },
-    {
+    "1": {
       "name": "Juan Sebastian Camino Muñoz",
       "correo": "",
       "telefono": "",
       "github": ""
     },
-    {
+    "2": {
       "name": "Juan Felipe Osorio Zapata",
       "correo": "",
       "telefono": "",
       "github": ""
     },
-    {
+    "3": {
       "name": "Ruzbellit Romero",
       "correo": "",
       "telefono": "",
       "github": ""
     },
-    {
+    "4": {
       "name": "Wilmer Cantillo",
       "correo": "",
       "telefono": "",
       "github": ""
     },
-    {
+    "5": {
       "name": "Alejandro Mosquera",
       "correo": "",
       "telefono": "",
       "github": ""
     }
-]
+  },
+  "1": {
+    "name-producto": "Tekno Maker",
+    "cls-2": "title-producto",
+    "icon": "<i class='fas fa-wallet'></i>"
+  }
+}

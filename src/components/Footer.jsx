@@ -4,6 +4,7 @@
 import React from 'react';
 import beidou from '../images/beidou.gif';
 import integrantes from '../json/data.json'
+
 /**
  *  @author : juan sebastian camino <juan.camino@correounivalle.edu.co>
  *  @author : Alejandro Mosquera <cardona.alejandro@correounivalle.edu.co>
@@ -11,7 +12,9 @@ import integrantes from '../json/data.json'
  *  
  */
 export function Footer({properties}) {
-
+    
+    const nameIntegrantes = Object.entries(Object.values(integrantes)[0])
+   
     return (
         <footer className={(properties[0])["cls-1"]}>
             <div className={(properties[0])["cls-5"]}>
@@ -20,8 +23,8 @@ export function Footer({properties}) {
             <div className={(properties[0])["cls-2"]}>
                 <h2 className={(properties[0]["cls-3"])}>Participantes del proyecto</h2>
                 <ul className={(properties[0]["cls-4"])}>
-                    {integrantes.map ( (item) => (
-                        <li key={item.name}>{item.name}</li>
+                    {nameIntegrantes.map ( (item) => (
+                        <li key={item[1].name}>{item[1].name}</li>
                     ))}
                 </ul>
             </div>
