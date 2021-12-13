@@ -14,7 +14,7 @@ import integrantes from '../json/data.json'
 export function Footer({properties}) {
     
     const nameIntegrantes = Object.entries(Object.values(integrantes)[0])
-   
+    
     return (
         <footer className={(properties[0])["cls-1"]}>
             <div className={(properties[0])["cls-5"]}>
