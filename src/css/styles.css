@@ -44,6 +44,8 @@ html {
     touch-action: none;
 }
 
+/* HEADER */
+
 .title-producto {
     font-size: 2em;
     font-family: "Roboto";
@@ -57,7 +59,7 @@ html {
     display: grid;
     position: fixed;
     grid-template-rows: 100%;
-    grid-template-columns: 20% 50% 30%;
+    grid-template-columns: 20% 60% 5% 15%;
     top: 0;
     left: 0;
     width: 100%;
@@ -79,6 +81,49 @@ html {
     word-break: break-all;
     hyphens: auto;
 }
+
+/* style login */
+.style-login {
+    display: grid;
+    grid-template-rows: 100%;
+    grid-template-columns: 100%;
+    overflow: hidden;
+}
+
+.style-login-icon {
+    justify-self: center;
+    align-self: center;
+    font-size: xx-large;
+    color: white;
+    margin-bottom: 0.1em;
+}
+
+
+/* style wallet */
+.style-wallet-box {
+    display: grid;
+    grid-template-rows: 100%;
+    grid-template-columns: 28% 56% 16%;
+    hyphens: auto;
+    word-break: break-all;
+}
+
+.style-wallet {
+    justify-self: flex-end;
+    align-self: center;
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+.style-wallet-text {
+    justify-self: flex-end;
+    align-self: center;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: aliceblue;
+    font-size: 2em;
+}
+
 
 /******      Footer Features        ******/
 .footer-box {
@@ -102,10 +147,22 @@ html {
     overflow:hidden;
 }
 
-.footer-divleftfeatures {
-    justify-self:center;
-    align-self:flex-start;
+.footer-divRigthfeatures { 
+    display: grid ;
+    grid-template-rows:100%;
+    grid-template-columns: 50% 50%;
+    color:white;
+    font-size: xx-large;
     overflow:hidden;
+}
+
+.footer-divRigthfeaturesSlack { 
+    justify-self:flex-end;
+    padding-right: 0.5em;
+}
+
+.footer-divRigthfeaturesGitHub { 
+    justify-self: flex-start;
 }
 
 .footer-divmidfeatures {
@@ -124,7 +181,7 @@ html {
 .footer-textFeatures {
     justify-self: left;
     align-self: flex-start;
-    line-height: 1.3em;
+    line-height: 1.0em;
     font-size:0.9em;
     hyphens: auto;
     color: aliceblue;

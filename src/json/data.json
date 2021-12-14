@@ -40,6 +40,13 @@
   "1": {
     "name-producto": "Tekno Maker",
     "cls-2": "title-producto",
+    "cls-3": "style-wallet-box",
+    "cls-4": "style-wallet",
+    "cls-5": "style-wallet-text",
+    "cls-6": "style-login",
+    "cls-7": "style-login-icon",
+    "name-wallet": "Wallet",
+    "name-login": "Ingresar",
     "icon": "<i class='fas fa-wallet'></i>"
   }
 }

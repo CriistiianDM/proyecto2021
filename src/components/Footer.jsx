@@ -8,6 +8,7 @@ import integrantes from '../json/data.json'
 /**
  *  @author : juan sebastian camino <juan.camino@correounivalle.edu.co>
  *  @author : Alejandro Mosquera <cardona.alejandro@correounivalle.edu.co>
+ *  @author : Cristian Duvan Machado <cristian.machado@coreounivalle.edu.co>
  *  @decs create header of the app
  *  
  */
@@ -28,7 +29,11 @@ export function Footer({properties}) {
                     ))}
                 </ul>
             </div>
-            <div></div>
+            <div className={(properties[0])["cls-6"]} >
+             <i className='bi bi-slack footer-divRigthfeaturesSlack' ></i>
+             <i className='bi bi-github footer-divRigthfeaturesGitHub'></i>            
+            </div>
         </footer>
     );
+  
 }
