@@ -6,6 +6,7 @@ import dataHeader from '../json/data.json';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWallet } from "@fortawesome/free-solid-svg-icons";
 import { faUser } from "@fortawesome/free-solid-svg-icons";
+import { faSearch } from "@fortawesome/free-solid-svg-icons";
 
 /**
  *  @author : cristian duvan machado mosquera <cristian.machado@correounivalle.edu.co>
@@ -18,6 +19,10 @@ export function Header({properties}) {
     return ( 
     <header className={(properties[0])["cls-1"]}> 
         <div className={first_element["cls-2"]}>{first_element["name-producto"]}</div>
+        <div className={first_element["cls-8"]}>
+           <input className={first_element["cls-9"]} type="text" placeholder="Buscar"/>
+           <a href='#search'><FontAwesomeIcon icon={faSearch} className={first_element["cls-10"]}/></a>
+        </div>
         <div></div>
         <div className={first_element["cls-6"]}>
             <FontAwesomeIcon icon={faUser} className={first_element["cls-7"]}/>

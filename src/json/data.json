@@ -45,8 +45,37 @@
     "cls-5": "style-wallet-text",
     "cls-6": "style-login",
     "cls-7": "style-login-icon",
+    "cls-8": "box-search",
+    "cls-9": "style-search",
+    "cls-10": "style-search-icon",
     "name-wallet": "Wallet",
-    "name-login": "Ingresar",
-    "icon": "<i class='fas fa-wallet'></i>"
+    "name-login": "Ingresar"
+  },
+  "2": {
+    "name-producto": "Slider",
+    "cls-1": "slider-box",
+    "cls-2": "contenedorSlideShow",
+    "cls-3": "slide",
+    "cls-4": "botonesSlide",
+    "cls-5": "botonStyle",
+    "cls-6": "sliderImg",
+    "cls-7": "textoSlide",
+    "cls-8": "slider-box-aux",
+    "name-login": "Ingresar"
+  },
+  "3": {
+    "name-producto": "Tekno Maker",
+    "cls-1": "",
+    "cls-2": "title-producto",
+    "cls-3": "style-wallet-box",
+    "cls-4": "style-wallet",
+    "cls-5": "style-wallet-text",
+    "cls-6": "style-login",
+    "cls-7": "style-login-icon",
+    "cls-8": "box-search",
+    "cls-9": "style-search",
+    "name-wallet": "Wallet",
+    "name-login": "Ingresar"
   }
+  
 }
