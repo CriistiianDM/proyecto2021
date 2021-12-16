@@ -30,8 +30,8 @@ export function Footer({properties}) {
                 </ul>
             </div>
             <div className={(properties[0])["cls-6"]} >
-             <i className='bi bi-slack footer-divRigthfeaturesSlack' ></i>
-             <i className='bi bi-github footer-divRigthfeaturesGitHub'></i>            
+            <a className='footer-divRigthfeaturesSlack' href='https://app.slack.com/client/T02LTF0ASN9/C02N04EDXBL' rel='noreferrer' target='_blank'><i className='bi bi-slack ' ></i></a> 
+            <a className='footer-divRigthfeaturesGitHub' href='https://github.com/CriistiianDM/proyecto2021' rel='noreferrer' target='_blank'><i className='bi bi-github'></i></a>            
             </div>
         </footer>
     );
