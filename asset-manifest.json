@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/proyecto2021/static/css/main.a37de3db.chunk.css",
-    "main.js": "/proyecto2021/static/js/main.2ea2314e.chunk.js",
-    "main.js.map": "/proyecto2021/static/js/main.2ea2314e.chunk.js.map",
+    "main.css": "/proyecto2021/static/css/main.b41495a2.chunk.css",
+    "main.js": "/proyecto2021/static/js/main.0ec8fa26.chunk.js",
+    "main.js.map": "/proyecto2021/static/js/main.0ec8fa26.chunk.js.map",
     "runtime-main.js": "/proyecto2021/static/js/runtime-main.0d3be906.js",
     "runtime-main.js.map": "/proyecto2021/static/js/runtime-main.0d3be906.js.map",
-    "static/js/2.6b7f3ca1.chunk.js": "/proyecto2021/static/js/2.6b7f3ca1.chunk.js",
-    "static/js/2.6b7f3ca1.chunk.js.map": "/proyecto2021/static/js/2.6b7f3ca1.chunk.js.map",
+    "static/js/2.354c37a0.chunk.js": "/proyecto2021/static/js/2.354c37a0.chunk.js",
+    "static/js/2.354c37a0.chunk.js.map": "/proyecto2021/static/js/2.354c37a0.chunk.js.map",
     "index.html": "/proyecto2021/index.html",
-    "static/css/main.a37de3db.chunk.css.map": "/proyecto2021/static/css/main.a37de3db.chunk.css.map",
-    "static/js/2.6b7f3ca1.chunk.js.LICENSE.txt": "/proyecto2021/static/js/2.6b7f3ca1.chunk.js.LICENSE.txt",
+    "static/css/main.b41495a2.chunk.css.map": "/proyecto2021/static/css/main.b41495a2.chunk.css.map",
+    "static/js/2.354c37a0.chunk.js.LICENSE.txt": "/proyecto2021/static/js/2.354c37a0.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/proyecto2021/static/media/Roboto-ThinItalic.19c6ed4c.ttf",
-    "static/media/beidou.85155d52.gif": "/proyecto2021/static/media/beidou.85155d52.gif"
+    "static/media/2.5563af19.jpg": "/proyecto2021/static/media/2.5563af19.jpg",
+    "static/media/3.04721616.jpg": "/proyecto2021/static/media/3.04721616.jpg",
+    "static/media/4.6ea8be54.jpg": "/proyecto2021/static/media/4.6ea8be54.jpg",
+    "static/media/beidou.85155d52.gif": "/proyecto2021/static/media/beidou.85155d52.gif",
+    "static/media/iconmonstr-angel-left-thin.b74b51c4.svg": "/proyecto2021/static/media/iconmonstr-angel-left-thin.b74b51c4.svg",
+    "static/media/iconmonstr-angel-right-thin.b282d2fc.svg": "/proyecto2021/static/media/iconmonstr-angel-right-thin.b282d2fc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0d3be906.js",
-    "static/js/2.6b7f3ca1.chunk.js",
-    "static/css/main.a37de3db.chunk.css",
-    "static/js/main.2ea2314e.chunk.js"
+    "static/js/2.354c37a0.chunk.js",
+    "static/css/main.b41495a2.chunk.css",
+    "static/js/main.0ec8fa26.chunk.js"
   ]
 }
