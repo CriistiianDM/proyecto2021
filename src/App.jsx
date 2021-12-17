@@ -1,7 +1,7 @@
 import React from 'react';
 import {Inicio} from './components/Inicio';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
   Link
@@ -12,7 +12,7 @@ export function App() {
   return(
     <Router>
       <Routes>
-        <Route path="/" element={<Inicio/>}></Route>
+        <Route path="" element={<Inicio/>}></Route>
       </Routes>
     </Router>
   );
