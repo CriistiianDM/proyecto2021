@@ -2,8 +2,8 @@
  *  @decs import libs
  */
 import React from 'react';
-import beidou from '../images/beidou.gif';
-import integrantes from '../json/data.json'
+import beidou from '../../images/beidou.gif';
+import integrantes from  '../../json/data.json';
 
 /**
  *  @author : juan sebastian camino <juan.camino@correounivalle.edu.co>

@@ -2,9 +2,9 @@
  *  @decs import libs
  */
  import React from "react";
- import dataSlider from '../json/data.json';
- import { ReactComponent as FlechaDerecha} from './../images/SliderImg/iconmonstr-angel-right-thin.svg'; 
- import { ReactComponent as FlechaIzquierda} from './../images/SliderImg/iconmonstr-angel-left-thin.svg'; 
+ import dataSlider from '../../json/data.json';
+ import { ReactComponent as FlechaDerecha} from '../../images/SliderImg/iconmonstr-angel-right-thin.svg'; 
+ import { ReactComponent as FlechaIzquierda} from '../../images/SliderImg/iconmonstr-angel-left-thin.svg'; 
 
  
 
