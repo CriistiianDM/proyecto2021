@@ -2,7 +2,7 @@
  *  @decs import libs
  */
 import React from "react";
-import dataHeader from '../json/data.json';
+import dataHeader from '../../json/data.json';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWallet } from "@fortawesome/free-solid-svg-icons";
 import { faUser } from "@fortawesome/free-solid-svg-icons";
